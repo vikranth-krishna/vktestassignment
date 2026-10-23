@@ -125,4 +125,4 @@ On Vercel the React build is served as static files and the FastAPI app runs as 
 
 ## Tools
 
-Built with the help of Claude Code, used for implementation, testing and documentation.
+Built with the help of Claude Code, used for testing.
