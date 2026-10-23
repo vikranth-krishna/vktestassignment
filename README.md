@@ -123,6 +123,6 @@ GitHub Actions (`.github/workflows/ci.yml`) runs on every push and pull request:
 
 On Vercel the React build is served as static files and the FastAPI app runs as a Python function at `/api/*` (see `vercel.json`).
 
-## AI tools
+## Tools
 
-An AI assistant (Claude) was used while building this project, for parts of the code, tests and documentation.
+Built with the help of Claude Code, used for implementation, testing and documentation.
