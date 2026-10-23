@@ -2,7 +2,7 @@
 
 A small web app for a GB power desk that buys electricity on the day-ahead market. For any delivery day in January 2026 it shows the newest national wind forecast that existed at the moment the buy had to be decided, and it measures how accurate those forecasts were against metered wind output.
 
-Live app: **LIVE_URL_PLACEHOLDER**
+Live app: https://vktestassignment.vercel.app/
 
 ## What it does
 
